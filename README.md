@@ -3,9 +3,6 @@
 ## Data source:
 Data file is included in this repository.
 
-## Data Analysis
-This project was done on SQL server 2022
-
 ## Data Visualization
 Data visualization was done in Microsoft Power BI
 
