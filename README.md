@@ -1,7 +1,7 @@
 # HR_Attrition____PowerBI
 
 ## Data source:
-A zip file is included in this repository.
+Data file is included in this repository.
 
 ## Data Analysis
 This project was done on SQL server 2022
