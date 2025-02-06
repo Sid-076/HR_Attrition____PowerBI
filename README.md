@@ -17,7 +17,7 @@ Data visualization was done in Microsoft Power BI
  4) Active Employees (Number of Employees after attrition
  5) Average Age of Employees
 
-### Analyss 
+### Analysis 
 
  1) Department wise Attrition
  2) Age and gender wise attrition
